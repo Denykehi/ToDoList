@@ -9,6 +9,7 @@ Aplikasi **To-Do List** berbasis web yang simpel, responsif, dan mudah digunakan
 - ➕ **Tambah Tugas**: Menambahkan daftar kegiatan baru dengan cepat.
 - 🔁 **Toggle Status Tugas**: Menandai tugas sebagai **Selesai** atau **Belum Selesai** hanya dengan satu klik.
 - 🗑️ **Hapus Tugas**: Menghapus tugas yang sudah tidak diperlukan dengan konfirmasi keamanan.
+- ✏️ **Edit/update : untuk mengubah tuga yang suda ada jika saya menulisnya
 - 📱 **Desain Responsif**: Tampilan tetap rapi dan nyaman diakses baik dari perangkat PC/Desktop maupun Mobile/Smartphone.
 - 🔒 **Sederhana & Aman**: Menggunakan Prepared Statements untuk mencegah *SQL Injection*.
 
