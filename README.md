@@ -38,4 +38,4 @@ Sebelum menjalankan proyek ini, pastikan Anda telah menginstal:
    Clone repositori ini ke folder `htdocs` XAMPP Anda:
    ```bash
    cd C:\xampp\htdocs
-   git clone [https://github.com/username-anda/nama-repo.git](https://github.com/username-anda/nama-repo.git) todo-app
+   git clone https://github.com/Denykehi/ToDoList.git
